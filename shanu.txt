@@ -1,0 +1,7 @@
+querys in aws
+
+We have an E-commerce website where transactional emails (Order, invoice emails) are going to spam, which we need fixed.
+To apply for this job you must have prior experience with DKIM, SPF, rDNS (PTR) records and DNS zone management.
+I will share link of email score to the right candidate, which needs to be improvised.
+
+how to resolve
